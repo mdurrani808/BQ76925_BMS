@@ -1,0 +1,13 @@
+/*
+ * i2c_hal.h
+ *
+ *  Created on: Oct 7, 2023
+ *      Author: mdurr
+ */
+
+#ifndef SRC_I2C_HAL_H_
+#define SRC_I2C_HAL_H_
+
+
+
+#endif /* SRC_I2C_HAL_H_ */
